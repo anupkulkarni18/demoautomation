@@ -1,0 +1,5 @@
+package selenium;
+
+public enum LocatorType {
+	ID, NAME, CLASS, CSSSELECTOR, CLASSNAME, LINKTEXT, TAGNAME, PARTIALLINKTEXT, XPATH;
+}

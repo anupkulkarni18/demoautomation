@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="LRS" verbose="1"  parallel="classes" thread-count="1">
+<listeners> 
+ 		<listener class-name="com.selenium.reporting.ExtentReporterNG"></listener> 
+ 	</listeners>
+  <test name="LRS_Tests">
+    <classes>
+    <class name="com.automation.SeperateUser.LRS_WEB_8555" />
+      
+     
+    </classes>
+  </test> <!-- LRS_Tests -->
+</suite> <!-- LRS -->

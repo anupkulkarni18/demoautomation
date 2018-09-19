@@ -11,7 +11,19 @@ public class SignInPage {
 	
 	public Element submitButton = new Element(LocatorType.XPATH,"//input[@name='Submit']");
 	
-	public Element loggedInUserName = new Element(LocatorType.XPATH,"//*[@id=\"loggedInuserName\"]");
+	public Element signLink = new Element(LocatorType.XPATH,"//a[text()='Sign in ' and @class='themeLinks ng-scope']");
 	
+	public Element allowCookie = new Element(LocatorType.XPATH,"//a[text()='Allow Cookies']");
+	
+	public Element nonProfitAccountLink = new Element(LocatorType.XPATH,"//a[text()='Sign in to your nonprofit account']");
+	
+	public Element loginUsernameFirstGiving = new Element(LocatorType.XPATH, "//input[@name='email']");
 
+	public Element loginPasswordFirstGiving = new Element(LocatorType.XPATH, "//input[@name='password']");
+	
+	public Element signInFirstGiving = new Element(LocatorType.XPATH, "//input[@value='Sign In']");
+
+	
+	
+	
 }

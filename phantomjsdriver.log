@@ -5,3 +5,5 @@
 [INFO  - 2018-09-19T16:07:47.692Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 2693f510-bc26-11e8-808f-3593d8fde788
 [INFO  - 2018-09-19T16:12:46.922Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2018-09-19T16:17:46.921Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-09-19T16:22:46.922Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-09-19T16:27:46.923Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW

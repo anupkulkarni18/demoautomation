@@ -1,0 +1,13 @@
+2018-09-19 21:31:42 INFO  DataStoreRepository:84 - Property file is loaded successfully: devConfig.properties
+2018-09-19 21:37:42 INFO  DataStoreRepository:84 - Property file is loaded successfully: devConfig.properties
+2018-09-19 21:37:50 INFO  Browser:30 - Implicit wait applied on the driver for 60 seconds
+2018-09-19 21:37:50 INFO  Browser:32 - Maximixe the window
+2018-09-19 21:37:50 INFO  Browser:33 - Web application launched: https://devconnect.lrsus.com/
+2018-09-19 21:38:37 INFO  DataStoreRepository:84 - Property file is loaded successfully: devConfig.properties
+2018-09-19 21:39:02 INFO  Browser:30 - Implicit wait applied on the driver for 60 seconds
+2018-09-19 21:39:04 INFO  Browser:32 - Maximixe the window
+2018-09-19 21:39:04 INFO  Browser:33 - Web application launched: https://devconnect.lrsus.com/
+2018-09-19 21:43:07 INFO  DataStoreRepository:84 - Property file is loaded successfully: devConfig.properties
+2018-09-19 21:43:54 INFO  Browser:30 - Implicit wait applied on the driver for 60 seconds
+2018-09-19 21:43:56 INFO  Browser:32 - Maximixe the window
+2018-09-19 21:43:56 INFO  Browser:33 - Web application launched: https://www.firstgiving.com/organization/ExOrg

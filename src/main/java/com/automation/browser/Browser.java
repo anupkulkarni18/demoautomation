@@ -107,7 +107,7 @@ public abstract class Browser {
 		}
 		else{
 			enviromentType = "dev";
-			browserType = "phantomjs";
+			browserType = "chrome";
 		}
 		
 		/*enviromentType = System.getProperty("env");

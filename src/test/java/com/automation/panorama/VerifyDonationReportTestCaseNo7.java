@@ -17,6 +17,7 @@ public class VerifyDonationReportTestCaseNo7 extends LoginPanorama {
 	
 	@Test
 	  public void VerifyDonationReport() throws InterruptedException {
+		  test=extent.createTest("VerifyDonationReport");
 		  SignInAction sia =new SignInAction();
 			sia.clickOnSignLink();
 			sia.clickOnNonProfitAccountLink();

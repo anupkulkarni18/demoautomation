@@ -16,6 +16,7 @@ public class VerifyCardOnFileReportTestCaseNo8 extends LoginPanorama {
 	
 	@Test
 	  public void VerifyCardOnFileReport() throws InterruptedException {
+		test=extent.createTest("CardOnFileReport");
 		  SignInAction sia =new SignInAction();
 			sia.clickOnSignLink();
 			sia.clickOnNonProfitAccountLink();

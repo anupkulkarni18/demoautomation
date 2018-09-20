@@ -68,7 +68,7 @@ public class MailingUtilities {
 	            break; // without break same text appears twice in my tests
 	        } else if (bodyPart.isMimeType("text/html")) {
 	            String html = (String) bodyPart.getContent();
-	            result = result + "\n" + org.jsoup.Jsoup.parse(html).text();
+	           // result = result + "\n" + org.jsoup.Jsoup.parse(html).text();
 	        } else if (bodyPart.getContent() instanceof MimeMultipart){
 	            result = result + getTextFromMimeMultipart((MimeMultipart)bodyPart.getContent());
 	        }

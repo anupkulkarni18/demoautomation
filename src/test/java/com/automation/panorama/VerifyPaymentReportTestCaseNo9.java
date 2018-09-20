@@ -15,6 +15,7 @@ import applicationActions.SignInAction;
 public class VerifyPaymentReportTestCaseNo9 extends LoginPanorama{
   @Test
   public void VerifyPaymentReport() throws InterruptedException {
+	  test=extent.createTest("VerifyPaymentReport");
 	  SignInAction sia =new SignInAction();
 		sia.clickOnSignLink();
 		sia.clickOnNonProfitAccountLink();

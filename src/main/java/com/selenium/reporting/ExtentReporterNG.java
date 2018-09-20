@@ -1,4 +1,4 @@
-package com.selenium.reporting;
+/*package com.selenium.reporting;
 import java.io.File;
 
 import java.util.Calendar;
@@ -24,6 +24,7 @@ public class ExtentReporterNG implements IReporter {
   
     @Override
     public void generateReport(List<XmlSuite> xmlSuites, List<ISuite> suites, String outputDirectory) {
+    	System.out.println(outputDirectory + File.separator + "ExtentReportTestNG.html");
         extent = new ExtentReports(outputDirectory + File.separator + "ExtentReportTestNG.html", true);
   
         for (ISuite suite : suites) {
@@ -72,4 +73,4 @@ public class ExtentReporterNG implements IReporter {
         calendar.setTimeInMillis(millis);
         return calendar.getTime();        
     }
-}
+}*/

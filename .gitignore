@@ -1,3 +1,8 @@
-**/target
+target/*
+*.project
+*.settings
+test-output/*
+settings/*
 *.class
-/src/
+/test-output/
+/target/

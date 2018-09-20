@@ -1,13 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Default suite]">
-  <test name="Default test(failed)">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)">
     <classes>
-      <class name="com.automation.panorama.LoginPanorama">
+      <class name="com.automation.panorama.VerifyPaymentReportTestCaseNo9">
+        <methods>
+          <include name="VerifyPaymentReport"/>
+        </methods>
+      </class> <!-- com.automation.panorama.VerifyPaymentReportTestCaseNo9 -->
+      <class name="com.automation.panorama.VerifyCardOnFileReportTestCaseNo8">
+        <methods>
+          <include name="VerifyCardOnFileReport"/>
+        </methods>
+      </class> <!-- com.automation.panorama.VerifyCardOnFileReportTestCaseNo8 -->
+      <class name="com.automation.panorama.VerifyDonationReportTestCaseNo7">
+        <methods>
+          <include name="VerifyDonationReport"/>
+        </methods>
+      </class> <!-- com.automation.panorama.VerifyDonationReportTestCaseNo7 -->
+      <class name="com.automation.panorama.VerifyFundRaisingReportTestCaseNo6">
         <methods>
           <include name="beforeTest"/>
+          <include name="VerifyFundRaisingReport"/>
+          <include name="Logout"/>
         </methods>
-      </class> <!-- com.automation.panorama.LoginPanorama -->
+      </class> <!-- com.automation.panorama.VerifyFundRaisingReportTestCaseNo6 -->
     </classes>
-  </test> <!-- Default test(failed) -->
-</suite> <!-- Failed suite [Default suite] -->
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

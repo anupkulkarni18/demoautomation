@@ -3,3 +3,98 @@
 2018-09-19 21:37:50 INFO  Browser:30 - Implicit wait applied on the driver for 60 seconds
 2018-09-19 21:37:50 INFO  Browser:32 - Maximixe the window
 2018-09-19 21:37:50 INFO  Browser:33 - Web application launched: https://devconnect.lrsus.com/
+2018-09-19 21:38:37 INFO  DataStoreRepository:84 - Property file is loaded successfully: devConfig.properties
+2018-09-19 21:39:02 INFO  Browser:30 - Implicit wait applied on the driver for 60 seconds
+2018-09-19 21:39:04 INFO  Browser:32 - Maximixe the window
+2018-09-19 21:39:04 INFO  Browser:33 - Web application launched: https://devconnect.lrsus.com/
+2018-09-19 21:43:07 INFO  DataStoreRepository:84 - Property file is loaded successfully: devConfig.properties
+2018-09-19 21:43:54 INFO  Browser:30 - Implicit wait applied on the driver for 60 seconds
+2018-09-19 21:43:56 INFO  Browser:32 - Maximixe the window
+2018-09-19 21:43:56 INFO  Browser:33 - Web application launched: https://www.firstgiving.com/organization/ExOrg
+2018-09-19 23:27:18 INFO  DataStoreRepository:84 - Property file is loaded successfully: devConfig.properties
+2018-09-19 23:27:46 INFO  Browser:30 - Implicit wait applied on the driver for 60 seconds
+2018-09-19 23:27:47 INFO  Browser:32 - Maximixe the window
+2018-09-19 23:27:47 INFO  Browser:33 - Web application launched: https://qa.firstgiving.com/organization/ExOrg
+2018-09-19 23:32:57 INFO  DataStoreRepository:84 - Property file is loaded successfully: devConfig.properties
+2018-09-19 23:33:32 INFO  Browser:30 - Implicit wait applied on the driver for 60 seconds
+2018-09-19 23:33:33 INFO  Browser:32 - Maximixe the window
+2018-09-19 23:33:33 INFO  Browser:33 - Web application launched: https://qa.firstgiving.com/organization/ExOrg
+2018-09-19 23:35:59 INFO  DataStoreRepository:84 - Property file is loaded successfully: devConfig.properties
+2018-09-19 23:36:27 INFO  Browser:30 - Implicit wait applied on the driver for 60 seconds
+2018-09-19 23:36:29 INFO  Browser:32 - Maximixe the window
+2018-09-19 23:36:29 INFO  Browser:33 - Web application launched: https://qa.firstgiving.com/organization/ExOrg
+2018-09-19 23:36:33 INFO  Element:342 - Element found successfully
+2018-09-19 23:37:59 INFO  DataStoreRepository:84 - Property file is loaded successfully: devConfig.properties
+2018-09-19 23:39:50 INFO  Browser:30 - Implicit wait applied on the driver for 60 seconds
+2018-09-19 23:39:51 INFO  Browser:32 - Maximixe the window
+2018-09-19 23:39:51 INFO  Browser:33 - Web application launched: https://qa.firstgiving.com/organization/ExOrg
+2018-09-19 23:43:12 INFO  DataStoreRepository:84 - Property file is loaded successfully: devConfig.properties
+2018-09-19 23:43:53 INFO  Browser:30 - Implicit wait applied on the driver for 60 seconds
+2018-09-19 23:43:55 INFO  Browser:32 - Maximixe the window
+2018-09-19 23:43:55 INFO  Browser:33 - Web application launched: https://qa.firstgiving.com/organization/ExOrg
+2018-09-19 23:44:51 ERROR Element:351 - Failed to find the element and taking the screen shotBy.xpath: //a[text()='Sign//a[text()='Allow Cookies'] in ' and @class='themeLinks ng-scope']
+2018-09-19 23:45:09 INFO  DataStoreRepository:84 - Property file is loaded successfully: devConfig.properties
+2018-09-19 23:45:47 INFO  DataStoreRepository:84 - Property file is loaded successfully: devConfig.properties
+2018-09-19 23:46:30 INFO  Browser:30 - Implicit wait applied on the driver for 60 seconds
+2018-09-19 23:46:31 INFO  Browser:32 - Maximixe the window
+2018-09-19 23:46:31 INFO  Browser:33 - Web application launched: https://qa.firstgiving.com/organization/ExOrg
+2018-09-19 23:49:50 INFO  DataStoreRepository:84 - Property file is loaded successfully: devConfig.properties
+2018-09-19 23:50:26 INFO  Browser:30 - Implicit wait applied on the driver for 60 seconds
+2018-09-19 23:50:28 INFO  Browser:32 - Maximixe the window
+2018-09-19 23:50:28 INFO  Browser:33 - Web application launched: https://qa.firstgiving.com/organization/ExOrg
+2018-09-19 23:50:30 INFO  Element:342 - Element found successfully
+2018-09-19 23:50:38 INFO  Element:130 - Perform click action on this element
+2018-09-19 23:50:39 INFO  Element:342 - Element found successfully
+2018-09-19 23:50:44 INFO  Element:130 - Perform click action on this element
+2018-09-20 00:21:51 INFO  DataStoreRepository:84 - Property file is loaded successfully: devConfig.properties
+2018-09-20 00:22:23 INFO  Browser:30 - Implicit wait applied on the driver for 60 seconds
+2018-09-20 00:22:24 INFO  Browser:32 - Maximixe the window
+2018-09-20 00:22:24 INFO  Browser:33 - Web application launched: https://qa.firstgiving.com/organization/ExOrg
+2018-09-20 00:22:25 INFO  Element:342 - Element found successfully
+2018-09-20 00:22:30 INFO  Element:130 - Perform click action on this element
+2018-09-20 00:22:30 INFO  Element:342 - Element found successfully
+2018-09-20 00:22:34 INFO  Element:130 - Perform click action on this element
+2018-09-20 00:22:34 INFO  Element:342 - Element found successfully
+2018-09-20 00:22:41 INFO  Element:130 - Perform click action on this element
+2018-09-20 00:22:41 INFO  Element:342 - Element found successfully
+2018-09-20 00:22:41 INFO  Element:145 - Entered text on this element
+2018-09-20 00:22:41 INFO  Element:342 - Element found successfully
+2018-09-20 00:22:42 INFO  Element:145 - Entered text on this element
+2018-09-20 00:22:42 INFO  Element:342 - Element found successfully
+2018-09-20 00:22:42 INFO  Element:130 - Perform click action on this element
+2018-09-20 00:23:39 INFO  DataStoreRepository:84 - Property file is loaded successfully: devConfig.properties
+2018-09-20 00:24:04 INFO  Browser:30 - Implicit wait applied on the driver for 60 seconds
+2018-09-20 00:24:05 INFO  Browser:32 - Maximixe the window
+2018-09-20 00:24:05 INFO  Browser:33 - Web application launched: https://qa.firstgiving.com/organization/ExOrg
+2018-09-20 00:24:06 INFO  Element:342 - Element found successfully
+2018-09-20 00:24:11 INFO  Element:130 - Perform click action on this element
+2018-09-20 00:24:11 INFO  Element:342 - Element found successfully
+2018-09-20 00:24:15 INFO  Element:130 - Perform click action on this element
+2018-09-20 00:24:15 INFO  Element:342 - Element found successfully
+2018-09-20 00:24:22 INFO  Element:130 - Perform click action on this element
+2018-09-20 00:24:22 INFO  Element:342 - Element found successfully
+2018-09-20 00:24:22 INFO  Element:145 - Entered text on this element
+2018-09-20 00:24:23 INFO  Element:342 - Element found successfully
+2018-09-20 00:24:23 INFO  Element:145 - Entered text on this element
+2018-09-20 00:24:23 INFO  Element:342 - Element found successfully
+2018-09-20 00:24:23 INFO  Element:130 - Perform click action on this element
+2018-09-20 00:38:07 INFO  DataStoreRepository:84 - Property file is loaded successfully: devConfig.properties
+2018-09-20 00:38:34 INFO  Browser:30 - Implicit wait applied on the driver for 60 seconds
+2018-09-20 00:38:35 INFO  Browser:32 - Maximixe the window
+2018-09-20 00:38:35 INFO  Browser:33 - Web application launched: https://qa.firstgiving.com/organization/ExOrg
+2018-09-20 00:38:36 INFO  Element:342 - Element found successfully
+2018-09-20 00:38:42 INFO  Element:130 - Perform click action on this element
+2018-09-20 00:38:42 INFO  Element:342 - Element found successfully
+2018-09-20 00:38:46 INFO  Element:130 - Perform click action on this element
+2018-09-20 00:38:46 INFO  Element:342 - Element found successfully
+2018-09-20 00:38:52 INFO  Element:130 - Perform click action on this element
+2018-09-20 00:38:52 INFO  Element:342 - Element found successfully
+2018-09-20 00:38:52 INFO  Element:145 - Entered text on this element
+2018-09-20 00:38:53 INFO  Element:342 - Element found successfully
+2018-09-20 00:38:53 INFO  Element:145 - Entered text on this element
+2018-09-20 00:38:53 INFO  Element:342 - Element found successfully
+2018-09-20 00:38:53 INFO  Element:130 - Perform click action on this element
+2018-09-20 00:39:22 INFO  Element:342 - Element found successfully
+2018-09-20 00:39:23 INFO  Element:130 - Perform click action on this element
+2018-09-20 00:39:23 INFO  Element:342 - Element found successfully
+2018-09-20 00:39:40 INFO  Element:130 - Perform click action on this element

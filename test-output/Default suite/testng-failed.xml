@@ -6,7 +6,6 @@
       <class name="com.automation.panorama.LoginPanorama">
         <methods>
           <include name="beforeTest"/>
-          <include name="beforeTest1"/>
         </methods>
       </class> <!-- com.automation.panorama.LoginPanorama -->
     </classes>

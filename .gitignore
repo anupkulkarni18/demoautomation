@@ -6,3 +6,6 @@ settings/*
 *.class
 /test-output/
 /target/
+.classpath
+bin/*
+out/*
